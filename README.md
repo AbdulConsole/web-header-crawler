@@ -7,6 +7,8 @@ Made on Mobile
 </p>
 <p align="center" style="font-size:1.5em">
 <b>Web Header Crawler 1.0</b>
+<br>
+<i>Created by <b>AbdulConsole</b></i>
 </p>
 <p align="center">
 This tool can help gather header request and responses sent to http/https server.
@@ -18,9 +20,7 @@ This tool can help gather header request and responses sent to http/https server
 * Parrot Linux OS
 ### REQUIREMENTS :
 * internet
-* Python urllib3
-* Python json
-* Python http
+* Python
 
 ## INSTALLATION [Termux] :
 

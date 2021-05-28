@@ -10,6 +10,7 @@ sleep(2)
 clear()
 print("\033[92m")
 #os.system("figlet  WebHC Header Crawler")
+#pip freeze > requirements.txt
 print('''\t _      __    __   __ _______
 \t| | /| / /__ / /  / // / ___/
 \t| |/ |/ / -_) _ \/ _  / /__ header
