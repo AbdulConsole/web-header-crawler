@@ -29,8 +29,8 @@ This tool can help gather header request and responses sent to http/https server
 * `pkg install python -y`
 * `pkg install python2 -y`
 * `pkg install git -y`
-* `pip install -r requirements.txt`
 * `git clone https://github.com/AbdulConsole/web-header-crawler`
+* `pip install -r requirements.txt`
 * `cd $HOME`
 * `ls`
 * `cd web-header-crawler`
