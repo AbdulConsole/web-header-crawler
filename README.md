@@ -30,10 +30,9 @@ This tool can help gather header request and responses sent to http/https server
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `git clone https://github.com/AbdulConsole/web-header-crawler`
-* `pip install -r requirements.txt`
-* `cd $HOME`
 * `ls`
 * `cd web-header-crawler`
+* `pip install -r requirements.txt`
 * `ls`
 * `python whc.py`
 
